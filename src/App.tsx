@@ -1,7 +1,8 @@
 import './App.css';
+import Board from './components/board/Board.tsx';
 
 function App() {
-  return <h1>tlchess-app</h1>;
+  return <Board />;
 }
 
 export default App;

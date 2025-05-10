@@ -1,0 +1,15 @@
+.square {
+  width: 12.5%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  user-select: none;
+}
+
+.square.white {
+  background-color: #f0d9b5;
+}
+
+.square.black {
+  background-color: #b58863;
+}
